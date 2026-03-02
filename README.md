@@ -1,6 +1,11 @@
 📌 This repository contains all deliverables for Task 1 and Task 2 of the COMP2090SEF Data Structures, Algorithms and Problem Solving course project.
-Group Leader: Xu Lanxin
-Group Number: GRP_9
+- Group Leader: Xu Lanxin
+- Group Number: GRP_9
+---
+## 👥 Group Member
+-XU Lanxin
+-Tsang Shing Huen
+-Tsang Yu Tai   
 ---
 ## 🧩 Task 1: OOP Application Development
 📌 **Deliverables in `Task1/`**:
