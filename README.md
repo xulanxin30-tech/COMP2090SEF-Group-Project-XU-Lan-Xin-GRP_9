@@ -3,9 +3,9 @@
 - Group Number: GRP_9
 ---
 ## 👥 Group Member
--XU Lanxin
--Tsang Shing Huen
--Tsang Yu Tai   
+- XU Lanxin
+- Tsang Shing Huen
+- Tsang Yu Tai   
 ---
 ## 🧩 Task 1: OOP Application Development
 📌 **Deliverables in `Task1/`**:
