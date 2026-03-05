@@ -4,10 +4,6 @@ Authors: Group 9
 Course: COMP2090 Software Engineering Fundamentals
 Repository: COMP2090SEF-Task2
 
-📁 Repository Contents
-File Name	Description
-Task2.py	Python implementation of Shell Sort and Binary Tree (with basic operations like insertion, traversal, etc.)
-Task2 Report.docx	Comprehensive report covering the learning process, algorithm analysis, complexity, and personal reflections
 🧠 Implemented Algorithms
 1. Shell Sort
 2. Binary Tree
