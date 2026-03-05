@@ -1,7 +1,14 @@
-🧠 Task 2: Self‑study on a New Data Structure & Algorithm
-📌 **Deliverables in `Task2/`**:
-- Demonstration code (`task2-code/`)
-- Study report (`task2-report.pdf`)
-- User guide (`task2-user_guide.md`)
-- Video link (`task2-video_link.txt`)
+📌 Project Overview
+This is Task 2 of the COMP2090 Software Engineering Fundamentals group project. In this task, we independently study and implement two fundamental algorithms/data structures: Shell Sort (an efficient sorting algorithm) and Binary Tree (a hierarchical data structure). The implementation is done in Python, and we provide a detailed report documenting our learning process, analysis, and reflections.
+Authors: Group 9
+Course: COMP2090 Software Engineering Fundamentals
+Repository: COMP2090SEF-Task2
+
+📁 Repository Contents
+File Name	Description
+Task2.py	Python implementation of Shell Sort and Binary Tree (with basic operations like insertion, traversal, etc.)
+Task2 Report.docx	Comprehensive report covering the learning process, algorithm analysis, complexity, and personal reflections
+🧠 Implemented Algorithms
+1. Shell Sort
+2. Binary Tree
 
